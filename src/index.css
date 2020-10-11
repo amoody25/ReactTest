@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn {
+  display: inline-block;
+  background-color: silver;
+  padding: 4px 20px;
+}
